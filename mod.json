@@ -1,0 +1,13 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081"
+	},
+	"id": "srank.mod-menu",
+	"name": "Srank Mod Menu",
+	"version": "v1.0.0",
+	"developer": "srank",
+	"description": "Srank Mod Menu: a Mega Hack style menu with noclip, accuracy, speedhack, practice tools, HUD options, FPS change, unlock all icons and more. Windows: press Tab. Android: tap the Srank icon.",
+	"tags": ["gameplay", "utility"]
+}
